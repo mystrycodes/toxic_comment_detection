@@ -8,7 +8,9 @@
   <li>Threat</li>
   <li>Insult</li>
 </ul>
+
 - The dataset used is a jigsaw toxic comment classification dataset from Kaggle
+
 <p>The model works on the following type of data formats
   <ul>
     <li>Audio</li>
@@ -17,7 +19,9 @@
     <li>Youtube video using url</li>
   </ul>
 </p>
+
 - Speech recognition is handled using assembly API
+
 ### Text Data
 <img width="773" alt="text" src="https://github.com/mystrycodes/toxic_comment_detection/assets/97798007/997a14f6-1391-481b-bb5e-c9be0ed68bb9">
 
